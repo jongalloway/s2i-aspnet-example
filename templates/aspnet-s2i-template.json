@@ -252,7 +252,7 @@
         {
             "name": "ASP_UPSTREAM_IMAGE",
             "description": "Base OpenShift ASP S2I Image",
-            "value": "sabre1041/s2i-aspnet",
+            "value": "jongalloway/s2i-aspnet",
             "displayName": "Upstream S2I Image"
         },
         {
